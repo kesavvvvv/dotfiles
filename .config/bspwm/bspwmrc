@@ -6,7 +6,7 @@ nm-applet &
 
 $HOME/.config/polybar/launch.sh
 
-feh --bg-fill /usr/share/backgrounds/bspwm/wall.png
+feh --bg-fill /home/kesav/Pictures/Wallpapers/wal.png
 
 picom &
 
