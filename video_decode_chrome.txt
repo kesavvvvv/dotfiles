@@ -1,0 +1,9 @@
+Add these to chrome-flags.conf working as of chrome 99 update
+
+--disable-features=UseChromeOSDirectVideoDecoder
+--ignore-gpu-blocklist
+--enable-gpu-rasterization
+--enable-zero-copy
+--enable-features=VaapiVideoDecoder
+--use-gl=desktop
+--disable-gpu-driver-bug-workarounds
